@@ -103,6 +103,9 @@ int main()
                 stack.peek();
                 break;
 
+            case 4:
+                cout << "Exiting program." << endl;
+                break;
             
         }
     }
